@@ -1,0 +1,16 @@
+# Vector DB
+pinecone>=5.0.0
+
+# Embeddings + LLM — Google (single SDK for both)
+google-genai>=2.0.0
+
+# PDF parsing
+pypdf>=5.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+psycopg2-binary>=2.9.0
+
+# UI (optional)
+gradio>=4.0.0
